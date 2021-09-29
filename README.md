@@ -18,3 +18,11 @@ Examinar diferentes combinaciones de **colores y bandas espectrales** para compr
 Analice los resultados
 Describa sitios de cultivos, bosque, zonas urbana, pastizales, cuerpos de agua. 
 Debe hacer un mínimo de 5 combinaciones de bandas
+##### Conteste las siguientes preguntas
+1	¿Cuáles son las ventajas de las características multiespectrales de los datos de teledetección digital?
+	
+2	¿Qué fecha tiene la imagen que corresponde a la que menor nubosidad?
+	
+3	¿Qué combinaciones espectrales de bandas y colores considera útil para comprender las características del paisaje de su interés?
+	
+	Compartir en este documento el link con el código que realizó.

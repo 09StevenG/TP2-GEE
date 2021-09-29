@@ -11,4 +11,5 @@ Examinar diferentes combinaciones de **colores y bandas espectrales** para compr
 
 ![](Bebedero.png)
 
-
+####Combinación de bandas 
+[Código GEE](https://code.earthengine.google.com/ed3fba90868b53b2520204f14ac914a7)

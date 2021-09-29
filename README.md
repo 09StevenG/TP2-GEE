@@ -9,6 +9,6 @@ Examinar diferentes combinaciones de **colores y bandas espectrales** para compr
 3.	Realice combinaciones de bandas usando las imágenes Landsat 8
 #### Elección de cuenca 
 
-![](Cuenca Bebedero.png)
+![](Bebedero.png)
 
 

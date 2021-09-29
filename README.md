@@ -14,3 +14,7 @@ Examinar diferentes combinaciones de **colores y bandas espectrales** para compr
 #### Combinación de bandas
 
 [Código GEE](https://code.earthengine.google.com/ed3fba90868b53b2520204f14ac914a7)
+
+Analice los resultados
+Describa sitios de cultivos, bosque, zonas urbana, pastizales, cuerpos de agua. 
+Debe hacer un mínimo de 5 combinaciones de bandas

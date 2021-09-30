@@ -17,7 +17,7 @@ Examinar diferentes combinaciones de **colores y bandas espectrales** para compr
 
 Analice los resultados
 
-![](Natural.png)
+![Color Natural](Natural.png)
 
 bands:['B4','B3','B2']
 

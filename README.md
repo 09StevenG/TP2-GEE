@@ -16,10 +16,11 @@ Examinar diferentes combinaciones de **colores y bandas espectrales** para compr
 [Código GEE](https://code.earthengine.google.com/e4d50d0954cac6e04bc3e50cef0b661e)
 
 Analice los resultados
-
-![](Natural.png)
-
-Color Natural **B4,B3,B2**. En este caso se aprecia la superficie que combina tres bandas del espectro visible; rojo, verde y azul respectivamente.Se obtiene con ello una superficie tal como la percibe el ojo humano.
+- Color Natural **B4,B3,B2**. En este caso se aprecia la superficie que combina tres bandas del espectro visible; rojo, verde y azul respectivamente.Se obtiene con ello una superficie tal como la percibe el ojo humano.
+- Infrarrojo **B5,B4,B3**
+- Agrícola **B6,B5,B2**
+- Urbano **B7,B6,B4**
+- Uso de suelo/cuerpos de agua **B5,B6,B4**
 
 Describa sitios de cultivos, bosque, zonas urbana, pastizales, cuerpos de agua. 
 Debe hacer un mínimo de 5 combinaciones de bandas

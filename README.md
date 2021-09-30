@@ -15,6 +15,12 @@ Examinar diferentes combinaciones de **colores y bandas espectrales** para compr
 
 [Código GEE](https://code.earthengine.google.com/e4d50d0954cac6e04bc3e50cef0b661e)
 
+![](Natural.png)
+![](Infra.png)
+![](agri.png)
+![](urb.png)
+![](agua.png)
+
 Analice los resultados
 - Color Natural **B4,B3,B2**. En este caso se aprecia la superficie que combina tres bandas del espectro visible; rojo, verde y azul respectivamente.Se obtiene con ello una superficie tal como la percibe el ojo humano.
 - Infrarrojo **B5,B4,B3**. Áreas de bosque con mayor vegetación poseen alta reflectancia con color rojo, en zonas con menor vegetación la intensidad del rojo disminuye e incluso llegando a ser nula.Se pueden distinguir cuerpos de agua en una tonalidad oscura.

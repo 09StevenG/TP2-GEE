@@ -19,7 +19,7 @@ Analice los resultados
 
 ![](Natural.png)
 
-Color Natural **B4,B3,B2**. En este caso se aprecia la superficie que combina tres bandas del espectro visible; rojo, verde y azul respectivamente.Se obtiene con ello una superficie .
+Color Natural **B4,B3,B2**. En este caso se aprecia la superficie que combina tres bandas del espectro visible; rojo, verde y azul respectivamente.Se obtiene con ello una superficie tal como la percibe el ojo humano.
 
 Describa sitios de cultivos, bosque, zonas urbana, pastizales, cuerpos de agua. 
 Debe hacer un mínimo de 5 combinaciones de bandas

@@ -17,13 +17,11 @@ Examinar diferentes combinaciones de **colores y bandas espectrales** para compr
 
 Analice los resultados
 - Color Natural **B4,B3,B2**. En este caso se aprecia la superficie que combina tres bandas del espectro visible; rojo, verde y azul respectivamente.Se obtiene con ello una superficie tal como la percibe el ojo humano.
-- Infrarrojo **B5,B4,B3**
-- Agrícola **B6,B5,B2**
-- Urbano **B7,B6,B4**
-- Uso de suelo/cuerpos de agua **B5,B6,B4**
+- Infrarrojo **B5,B4,B3**. Áreas de bosque con mayor vegetación poseen alta reflectancia con color rojo, en zonas con menor vegetación la intensidad del rojo disminuye e incluso llegando a ser nula.Se pueden distinguir cuerpos de agua en una tonalidad oscura.
+- Agrícola **B6,B5,B2** Las zonas de agricultura reflejan un verde brillante, se aprecian suelos descubiertos y con un color amarillo escasa vegetación.
+- Urbano **B7,B6,B4** En este caso es fundamental identificar zonas de reflectancia con colores grises o morados en referencia a lo urbano.De igual forma permite apreciar cuerpos de agua.
+- Uso de suelo/cuerpos de agua **B5,B6,B4** Se pueden distinguir fácilmente los cuerpos de agua con un azul oscuro, zonas con alta vegetación amarillo y suelos descubiertos preparados para la siembra.
 
-Describa sitios de cultivos, bosque, zonas urbana, pastizales, cuerpos de agua. 
-Debe hacer un mínimo de 5 combinaciones de bandas
 
 ##### Conteste las siguientes preguntas
 1	¿Cuáles son las ventajas de las características multiespectrales de los datos de teledetección digital?
@@ -35,4 +33,4 @@ Debe hacer un mínimo de 5 combinaciones de bandas
 > Primeramente se probó con los meses de enero-febrero del 2019, con ese rango se presentaba gran cantidad de nubes en el área de la cuenca, posteriormente se amplió el rango hasta el mes de marzo y con ello se logra visualizar la zona de interés con muy poca nubosidad 
  
 3	¿Qué combinaciones espectrales de bandas y colores considera útil para comprender las características del paisaje de su interés?
-> Esto dependerá de la cobertura que se desee analizar o darle mayor énfasis, por ejemplo en este caso la Cuenca Bebedero presenta zonas con gran cantidad de pastizales por su importancia en la actividad ganadera de la región, de igual manera sobresalen bandas para corroborar la cantidad de vegetación sana o suelo descubierto pues en la cuenca tambieén se realiza actividad agrícola. Las bandas para identificar lo urbano en este caso se deben de apreciar con gran detenimiento pues al tratarse de zonas mayormente rurales se dificulta un poco percibir los paisajes con mayor cantidad de infraestructura y densidad. Fundamental la combinación para apreciar los cuerpos de agua con mayor detalle tomando en cuenta que estas fuentes hídricas son determinantes en las dinámicas económicas, ambientales y sociales de la región. 
+> Esto dependerá de la cobertura que se desea analizar o darle mayor énfasis y así obtener mayor reflexión de los elementos, por ejemplo, en este caso la Cuenca Bebedero presenta zonas con gran cantidad de pastizales por su importancia en la actividad ganadera de la región, de igual manera sobresalen bandas para corroborar la cantidad de vegetación sana o suelo descubierto pues en la cuenca tambieén se realiza actividad agrícola. Las bandas para identificar lo urbano en este caso se deben de apreciar con gran detenimiento pues al tratarse de zonas mayormente rurales se dificulta un poco percibir los paisajes con mayor cantidad de infraestructura y densidad. Fundamental la combinación para apreciar los cuerpos de agua con mayor detalle tomando en cuenta que estas fuentes hídricas son determinantes en las dinámicas económicas, ambientales y sociales de la región. 

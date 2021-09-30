@@ -17,9 +17,9 @@ Examinar diferentes combinaciones de **colores y bandas espectrales** para compr
 
 Analice los resultados
 
-![Color Natural](Natural.png)
+![](Natural.png)
 
-bands:['B4','B3','B2']
+Color Natural **B4,B3,B2**. En este caso se aprecia la superficie que combina tres bandas del espectro visible; rojo, verde y azul respectivamente.Se obtiene con ello una superficie .
 
 Describa sitios de cultivos, bosque, zonas urbana, pastizales, cuerpos de agua. 
 Debe hacer un mínimo de 5 combinaciones de bandas

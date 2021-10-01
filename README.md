@@ -2,9 +2,10 @@
 - GF-0618 FOTOGRAMETRÍA Y TELEDETECCIÓN
 - MSc.María José Molina Montero
 - Estudiante Steven Guillén Rivera
-> *Fue renombrado oficialmente a Landsat 8 el 30 de mayo de 2013. El satélite más nuevo de la serie Landsat ofrece a los científicos una visión más clara con una mejor resolución espacial que la mayoría de los instrumentos de detección oceánica y una mayor sensibilidad al brillo y al color que los Landsat anteriores. Lo más significativo es que puede observar la Tierra en longitudes de onda que permiten a los científicos ajustar las distorsiones especialmente causadas por la atmósfera cerca de la costa*
-(Acharya y Yang, 2015, p.04)
 ![](landsat.jpg)
+> *Fue renombrado oficialmente a Landsat 8 el 30 de mayo de 2013. El satélite más nuevo de la serie Landsat ofrece a los científicos una visión más clara con una mejor resolución espacial que la mayoría de los instrumentos de detección oceánica y una mayor sensibilidad al brillo y al color que los Landsat anteriores. Lo más significativo es que puede observar la Tierra en longitudes de onda que permiten a los científicos ajustar las distorsiones especialmente causadas por la atmósfera cerca de la costa*
+
+(Acharya y Yang, 2015, p.04)
 ## Objetivos
 Familiarícese con los datos satelitales multiespectrales **Landsat 8**  
 

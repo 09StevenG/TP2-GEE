@@ -30,8 +30,8 @@ Examinar diferentes combinaciones de **colores y bandas espectrales** para compr
 
 Analice los resultados
 - Color Natural **B4,B3,B2**. En este caso se aprecia la superficie que combina tres bandas del espectro visible; rojo, verde y azul respectivamente.Se obtiene con ello una superficie tal como la percibe el ojo humano.
-- Infrarrojo **B5,B4,B3**. Áreas de bosque con mayor vegetación poseen alta reflectancia con color rojo, en zonas con menor vegetación la intensidad del rojo disminuye e incluso llegando a ser nula.Se pueden distinguir cuerpos de agua en una tonalidad oscura.
-- Agrícola **B6,B5,B2** Las zonas de agricultura reflejan un verde brillante, se aprecian suelos descubiertos y con un color amarillo escasa vegetación.
+- Infrarrojo **B5,B4,B3**. Áreas de bosque con abundante vegetación poseen alta reflectancia con color rojo, en zonas con menor vegetación la intensidad del rojo disminuye e incluso llegando a ser nula.Se pueden distinguir cuerpos de agua en una tonalidad oscura.
+- Agrícola **B6,B5,B2** Las zonas de agricultura reflejan un amarillo, se aprecian suelos descubiertos y un color verde para la vegetación.
 - Urbano **B7,B6,B4** En este caso es fundamental identificar zonas de reflectancia con colores grises o morados en referencia a lo urbano.De igual forma permite apreciar cuerpos de agua.
 - Uso de suelo/cuerpos de agua **B5,B6,B4** Se pueden distinguir fácilmente los cuerpos de agua con un azul oscuro, zonas con alta vegetación amarillo y suelos descubiertos preparados para la siembra.
 

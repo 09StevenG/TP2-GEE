@@ -49,6 +49,5 @@ Analice los resultados
 3	¿Qué combinaciones espectrales de bandas y colores considera útil para comprender las características del paisaje de su interés?
 > Esto dependerá de la cobertura que se desea analizar o darle mayor énfasis y así obtener mayor reflexión de los elementos, por ejemplo, en este caso la Cuenca Bebedero presenta zonas con gran cantidad de pastizales por su importancia en la actividad ganadera de la región, de igual manera sobresalen bandas para corroborar la cantidad de vegetación como el falso color infrarrojo, así como uso de suelos pues en la cuenca también se realiza una importante actividad agrícola. Las bandas para identificar lo urbano en este caso se deben de apreciar con gran detenimiento pues al tratarse de zonas mayormente rurales se dificulta un poco percibir los paisajes con mayor cantidad de infraestructura y densidad. Fundamental la combinación para apreciar los cuerpos de agua con mayor detalle tomando en cuenta que estas fuentes hídricas son determinantes en las dinámicas económicas, ambientales y sociales de la región. 
 ##### Referencias
-Acharya, T. D., & Yang, I. (2015). Exploring landsat 8. International Journal of IT, Engineering and Applied Sciences Research (IJIEASR), 4(4), 4-10.
-
-Weng, Q. (2012). *An introduction to contemporary remote sensing*. McGraw-Hill Education.
+- Acharya, T. D., & Yang, I. (2015). Exploring landsat 8. International Journal of IT, Engineering and Applied Sciences Research (IJIEASR), 4(4), 4-10.
+- Weng, Q. (2012). *An introduction to contemporary remote sensing*. McGraw-Hill Education.
